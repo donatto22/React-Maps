@@ -1,0 +1,5 @@
+@import url('./normalize.css');
+
+.leaflet-container {
+    height: 100vh;
+}

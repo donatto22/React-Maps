@@ -1,0 +1,17 @@
+{
+    "locations": [
+        {
+            "id": 1,
+            "institute_name": "Imperial College London",
+            "latitude": "51.4989595",
+            "altitude": "-0.17564069276310426"
+        },
+    
+        {
+            "id": 2,
+            "institute_name": "University of Oxford",
+            "latitude": "51.75870755",
+            "altitude": "-1.2556684826092037"
+        }
+    ]
+}
